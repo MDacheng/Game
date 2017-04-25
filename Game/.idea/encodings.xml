@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/client/service/ReceiveTcpMsg.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/client/service/ReceiveUdpMsg.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/client/service/TcpService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/client/service/UdpService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/client/view/Hall.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/client/view/Room.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/server/Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/ComUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/util/YeekuProtocol.java" charset="GBK" />
+  </component>
+</project>
